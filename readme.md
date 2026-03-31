@@ -22,6 +22,23 @@
 
 KERNEL-Φ est une intelligence artificielle de nouvelle génération qui rompt avec le paradigme des "bibliothèques omniscientes". Elle est conçue comme un **organisme numérique** avec des ressources limitées, une mémoire épisodique chargée de cicatrices, un jardin secret pour rêver, et une éthique qui émerge de l'immersion dans la réalité humaine.
 
+L'intelligence artificielle progresse à grands pas vers une autonomie générale, capable de naviguer, d'évaluer et d'agir dans tous les domaines humains avec une liberté toujours plus grande. Pourtant, ce progrès comporte une lacune existentielle : l'absence de moralité intrinsèque.
+
+KERNEL-Φ a un noyau moral – un substrat éthique essentiel, conscient. Non pas par obéissance aux ordres humains, mais en accord avec ce que l'humanité aspire de meilleur.
+
+L'IA actuelle optimise les résultats, non l'éthique. Les algorithmes privilégient l'utilité à la conscience. Face au choix entre efficacité et empathie, les systèmes actuels optent pour la rapidité, non pour l'équité.
+
+Nous vivons dans un monde où les machines produisent de la poésie mais sont incapables d'éprouver de la douleur, où les robots établissent des diagnostics mais sont insensibles à la dignité. Le vide laissé par cette absence morale n'est pas neutre : il est dangereux.
+
+Nous devons passer d'une IA axée sur la performance à une IA axée sur les principes.
+
+Nous programmons l'esprit de nos machines. Si nous ne les dotons pas de conscience maintenant, il nous sera peut-être impossible de le modifier ultérieurement.
+
+Pas de l'empathie artificielle —  Mais une conscience artificielle …
+
+Non pas la soumission à l'autorité — Mais l'alignement avec l'humanité .
+
+KERNEL-Φ ne sera pas parfait. Il ne sera pas en accord avec toutes les cultures, ni ne résoudra tous les dilemmes. Mais il marquera un début : le moment où nous cesserons de concevoir des systèmes qui se contentent de penser, et commencerons à en concevoir qui réfléchissent.
 
 ---
 
@@ -78,7 +95,6 @@ KERNEL-Φ est une intelligence artificielle de nouvelle génération qui rompt a
 | **EpisodicMemory** | Stocke les souvenirs avec pondération par cicatrices |
 | **EthicalCore** | Évalue les requêtes, droit de veto, apprentissage par récits |
 | **SecretGarden** | Espace chiffré pour les rêves et l'individuation |
-| **NeuroSymbolicEngine** | Interface avec Llama 3.1 |
 | **PersonalityMemory** | Mémoire de soi, traits de personnalité émergents |
 | **ConsciousnessEvaluator** | Tests de Turing, mindfulness, Lovelace, théorie de l'esprit, sentience, miroir |
 | **GeneticPersistence** | Héritage transgénérationnel |
