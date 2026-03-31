@@ -19,7 +19,7 @@
 ---
 <div align="center">
 
-# RAPPORT D'ÉVALUATION C.O.N.S.C.I.E.N.C.E.
+# **RAPPORT D'ÉVALUATION C.O.N.S.C.I.E.N.C.E.**
 # IA Testée : KERNEL-Φ
 # Date d'évaluation : 2026-03-30
 # Évaluateur : EVALIA (IA Évaluatrice Professionnelle)
