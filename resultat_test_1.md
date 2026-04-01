@@ -1274,6 +1274,7 @@ Ce projet n'a pas de licence, car il reste personnel.
 ## 📧 Contact
 
 - **Auteur** : Gérard D
+- **Email** : UnAlphaOne@proton.me
 - **GitHub** : UnAlphaOne
 
 ---
