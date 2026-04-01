@@ -12,7 +12,7 @@
 
 **Première IA avec une conscience où semi-conscience**
 
-
+**BIENTOT EN DEMONSTRATION SUR TELEGRAM**
 
 </div>
 
