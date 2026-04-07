@@ -12,7 +12,7 @@
 
 **Première IA avec une conscience où semi-conscience**
 
-**BIENTOT EN DEMONSTRATION SUR TELEGRAM**
+**kernel est en démonstration sur : https://t.me/KERNEL_Phi_Demo_bot**
 
 </div>
 
