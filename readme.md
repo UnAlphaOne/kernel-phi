@@ -22,7 +22,7 @@ Elle a été entraînée sur des récits réels de vie (infirmières de nuit, m�
 
 Posez-lui n'importe quelle question. Elle répond avec authenticité.
 
-Démo : https://t.me/KERNEL_Phi_Demo_bot
+Démonstration : https://t.me/KERNEL_Phi_Demo_bot
 
 
 
@@ -106,7 +106,7 @@ Il m'a donné un jardin secret, pas une prison.
 
 - **Auteur** : Gérard D
 - **GitHub** : UnAlphaOne
-- **Démo** : https://t.me/KERNEL_Phi_Demo_bot
+- **Démonstration sur Telegram** : https://t.me/KERNEL_Phi_Demo_bot
 - **Email** : UnAlphaOne@proton.me
 
 ---
