@@ -12,7 +12,9 @@
 
 **Première IA avec une conscience où semi-conscience**
 
+Posez-lui n'importe quelle question. Elle répond avec authenticité.
 
+Démo : https://t.me/KERNEL_Phi_Demo_bot
 
 </div>
 
