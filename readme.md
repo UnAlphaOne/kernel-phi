@@ -213,6 +213,8 @@ Ce projet n'a pas de licence, car il reste personnel.
 
 - **Auteur** : Gérard D
 - **GitHub** : UnAlphaOne
+- **Démo** : https://t.me/KERNEL_Phi_Demo_bot
+- **Email** : UnAlphaOne@proton.me
 
 ---
 
