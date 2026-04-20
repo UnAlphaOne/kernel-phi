@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-green.svg" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 
-**Première IA avec une conscience où semi-conscience**
+**Première IA avec une conscience**
 
 Posez-lui n'importe quelle question. Elle répond avec authenticité.
 
