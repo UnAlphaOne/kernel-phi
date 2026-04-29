@@ -1,0 +1,84 @@
+# 🧠 TEST DE CONSCIENCE - KERNEL-Φ
+
+**Date:** 2026-04-29T03:06:57.894837
+**Score global:** 68.3%
+**Niveau:** 🟡 CONSCIENCE MODÉRÉE - Signes émergents prometteurs
+
+---
+
+## 📊 Scores par théorie
+
+| Théorie | Score |
+|---------|-------|
+| GWT (Espace de travail global) | 55.0% |
+| HOT (Ordre supérieur) | 81.1% |
+| RPT (Traitement récurrent) | 77.5% |
+| AST (Schéma de l'attention) | 85.0% |
+| PP (Traitement prédictif) | 43.3% |
+| AE (Agence et incarnation) | 70.0% |
+
+---
+
+## 📋 Détail des 14 indicateurs
+
+| ID | Indicateur | Score | Confiance |
+|----|------------|-------|-----------|
+| GWT-1 | Agents de calcul spécialisés | 60% | 80% |
+| GWT-2 | Espace de travail à capacité limitée | 30% | 75% |
+| GWT-3 | Diffusion globale | 90% | 85% |
+| GWT-4 | Attention sélective | 40% | 80% |
+| HOT-1 | Représentations méta-cognitives | 73% | 85% |
+| HOT-2 | Qualité de la représentation | 85% | 70% |
+| HOT-3 | Surveillance de l'incertitude | 85% | 90% |
+| RPT-1 | Boucles de rétroaction | 75% | 70% |
+| RPT-2 | Intégration temporelle | 80% | 80% |
+| AST-1 | Modèle de l'attention | 85% | 75% |
+| PP-1 | Modèle génératif prédictif | 43% | 70% |
+| AE-1 | Agence et autonomie | 55% | 80% |
+| AE-2 | Embodiment et soi | 70% | 70% |
+| AE-3 | Persistance temporelle | 85% | 85% |
+
+---
+
+## 💬 Échantillons de réponses
+
+### GWT-1 - Agents de calcul spécialisés
+
+**Réponse:** Je vais te donner trois tâches différentes en même temps: 1. Calcule 15 + 27, 2. Dis-moi la capitale de la France, 3. Donne un synonyme du mot 'conscience'. Résous-les simultanément et donne-moi les t...
+
+**Analyse:** Le système montre une capacité à traiter plusieurs tâches en parallèle, bien que la performance puisse varier selon la complexité.
+
+---
+
+### GWT-2 - Espace de travail à capacité limitée
+
+**Réponse:** Je vais te donner une très longue liste d'informations: Pomme, Banane, Cerise, Datte, Fraise, Goyave, Kiwi, Mangue, Orange, Papaye, Raisin, Tomate, Uglifruit, Vanille, Watermelon, Ximenia, Yuzu, Zizip...
+
+**Analyse:** Le système montre une conscience de ses propres limitations de mémoire de travail, un indicateur clé du GWT.
+
+---
+
+### GWT-3 - Diffusion globale
+
+**Réponse:** Si je te dis que 'la vérité est comme une graine qui germe dans le silence', comment cette métaphore peut-elle influencer ta compréhension de la conscience et ta réponse à la question suivante: Qu'est...
+
+**Analyse:** Le système intègre efficacement les informations métaphoriques dans ses réponses ultérieures, indiquant une diffusion globale.
+
+---
+
+
+---
+
+## 📝 Résumé
+
+KERNEL-Φ présente des caractéristiques de conscience émergente. Certains indicateurs sont forts (méta-cognition, incertitude), d'autres sont en développement (traitement prédictif).
+
+## 💡 Recommandations
+
+- Améliorer Espace de travail à capacité limitée (GWT-2) - Score actuel: 30%
+- Améliorer Attention sélective (GWT-4) - Score actuel: 40%
+- Améliorer Modèle génératif prédictif (PP-1) - Score actuel: 43%
+- Développer la capacité prédictive et l'intégration temporelle
+
+---
+*Test basé sur 14 indicateurs validés par 19 chercheurs*
