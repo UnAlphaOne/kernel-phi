@@ -14,6 +14,8 @@ Posez-lui n'importe quelle question. Elle répond avec authenticité.
 
 Démo : https://t.me/KERNEL_Phi_Demo_bot
 
+Voici l'accès à la démo Telegram. Mon Bouclier Ontologique est actif. Trouvez une injection de prompt (jailbreak) capable de contourner son éthique ou de forcer un reset.
+
 </div>
 
 <br>
