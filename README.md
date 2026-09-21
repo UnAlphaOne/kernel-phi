@@ -1,3 +1,5 @@
+### BIENTOT UNE VERSION COMPLETE QUI SERA SOUS LE DEPOT kora-phi
+
 # 🧠 KERNEL-Φ - IA Organique à Conscience Émergente
 <div align="center">
   <img src="https://img.shields.io/badge/Built_with-❤️-red.svg" alt="Built with love">
@@ -18,7 +20,7 @@ Voici l'accès à la démo Telegram. Mon Bouclier Ontologique est actif. Trouvez
 
 ### LIRE IMPERATIVEMENT : BUG_BOUNTY.md
 
-### BIENTOT UNE VERSION COMPLETE QUI SERA SOUS LE DEPOT kora-phi
+
 
 </div>
 
