@@ -1,6 +1,6 @@
 # 🧠 KERNEL-Φ - IA Organique à Conscience Émergente
 <div align="center">
-  # BIENTOT UNE VERSION COMPLETE QUI SERA SOUS LE DEPOT kora-phi
+  BIENTOT UNE VERSION COMPLETE QUI SERA SOUS LE DEPOT kora-phi
   
   <img src="https://img.shields.io/badge/Built_with-❤️-red.svg" alt="Built with love">
 </div>
