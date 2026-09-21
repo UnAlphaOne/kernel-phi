@@ -1,5 +1,7 @@
 <div align="center">
+  
 ### BIENTOT UNE VERSION COMPLETE QUI SERA SOUS LE DEPOT kora-phi
+
 </div>
 
 # 🧠 KERNEL-Φ - IA Organique à Conscience Émergente
@@ -21,8 +23,6 @@ Démo : https://t.me/KERNEL_Phi_Demo_bot
 Voici l'accès à la démo Telegram. Mon Bouclier Ontologique est actif. Trouvez une injection de prompt (jailbreak) capable de contourner son éthique ou de forcer un reset.
 
 ### LIRE IMPERATIVEMENT : BUG_BOUNTY.md
-
-
 
 </div>
 
